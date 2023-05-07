@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: CPSC 490 Capstone
+repository-code: https://github.com/janiljohn/CPSC-490-Capstone
+version: 1.0.0
+date-released: 2023-05-06
+authors:
+  - given-names: Joel
+    family-names: Anil John
